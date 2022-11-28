@@ -1,6 +1,8 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: two-trick-pony-NL  # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
+assignees:
+  - two-trick-pony-NL
 
 sites:
   - name: petervandoorn.com
