@@ -33,7 +33,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: current incidents
+    - title: Current incidents
       href: https://github.com/two-trick-pony-NL/upptime/issues?q=
 
 # Upptime also supports notifications, assigning issues, and more
