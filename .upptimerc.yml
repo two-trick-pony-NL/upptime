@@ -25,6 +25,7 @@ status-website:
   name: Upptime
   introTitle: "**Upptime**"
   introMessage: "This is the status page for Peter van Doorn's side projects."
+  theme: dark
   navbar:
     - title: Status
       href: /
