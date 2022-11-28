@@ -3,14 +3,16 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: petervandoorn.com
+    url: https://petervandoorn.com
+  - name: Corina Horstman
+    url: https://corinahorstman.nl
+  - name: Bussie Backend
+    url: https://bussie.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com/
+  - name: Citizen Science
+    url: https://citizen-science-nl.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com/
+  - name: Photo Scavenger
+    url: https://photoscavenger.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com/healthcheck
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
