@@ -13,7 +13,7 @@ sites:
   - name: Bussie Backend
     url: https://bussie.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com/
   - name: Bussie Backend (Vehicle fetch)
-    url: https://bussie.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com/API/V1/get_vehicles
+    url: https://bussie.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com/API/V1/get_all_vehicle_information
   - name: Citizen Science
     url: https://citizen-science-nl.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com/
   - name: Photo Scavenger
