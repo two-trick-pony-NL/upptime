@@ -4,10 +4,10 @@
     "url": "https://petervandoorn.com",
     "icon": "https://icons.duckduckgo.com/ip3/petervandoorn.com.ico",
     "slug": "petervandoorn-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 810,
@@ -15,7 +15,9 @@
     "timeWeek": 701,
     "timeMonth": 718,
     "timeYear": 810,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-11": 2
+    }
   },
   {
     "name": "Corina Horstman",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/corinahorstman.nl.ico",
     "slug": "corina-horstman",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 2247,
     "timeDay": 1906,
     "timeWeek": 2380,
     "timeMonth": 2369,
     "timeYear": 2247,
     "dailyMinutesDown": {
-      "2023-01-11": 0
+      "2023-01-11": 14
     }
   },
   {
@@ -63,11 +65,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bussie.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com.ico",
     "slug": "bussie-backend-vehicle-fetch",
     "status": "up",
-    "uptime": "82.40%",
+    "uptime": "82.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "74.66%",
-    "uptimeYear": "82.40%",
+    "uptimeYear": "82.41%",
     "time": 803,
     "timeDay": 1289,
     "timeWeek": 1392,
