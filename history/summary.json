@@ -22,9 +22,9 @@
     "url": "https://corinahorstman.nl",
     "icon": "https://icons.duckduckgo.com/ip3/corinahorstman.nl.ico",
     "slug": "corina-horstman",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 2380,
     "timeMonth": 2369,
     "timeYear": 2247,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-11": 0
+    }
   },
   {
     "name": "Bussie Backend",
@@ -61,11 +63,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bussie.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com.ico",
     "slug": "bussie-backend-vehicle-fetch",
     "status": "up",
-    "uptime": "82.28%",
+    "uptime": "82.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "74.66%",
-    "uptimeYear": "82.28%",
+    "uptimeYear": "82.40%",
     "time": 803,
     "timeDay": 1289,
     "timeWeek": 1392,
