@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 778,
-    "timeDay": 649,
-    "timeWeek": 632,
-    "timeMonth": 666,
+    "timeDay": 796,
+    "timeWeek": 654,
+    "timeMonth": 670,
     "timeYear": 778,
     "dailyMinutesDown": {
       "2023-01-11": 20
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
-    "time": 2256,
-    "timeDay": 2336,
-    "timeWeek": 2184,
-    "timeMonth": 2361,
-    "timeYear": 2256,
+    "time": 2265,
+    "timeDay": 2841,
+    "timeWeek": 2263,
+    "timeMonth": 2377,
+    "timeYear": 2265,
     "dailyMinutesDown": {
       "2023-01-11": 32
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 609,
-    "timeDay": 581,
-    "timeWeek": 598,
-    "timeMonth": 637,
-    "timeYear": 609,
+    "time": 611,
+    "timeDay": 753,
+    "timeWeek": 597,
+    "timeMonth": 641,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2022-12-26": 17
     }
@@ -65,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bussie.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com.ico",
     "slug": "bussie-backend-vehicle-fetch",
     "status": "up",
-    "uptime": "85.32%",
+    "uptime": "85.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "79.11%",
-    "uptimeYear": "85.32%",
-    "time": 828,
-    "timeDay": 1075,
-    "timeWeek": 847,
-    "timeMonth": 815,
-    "timeYear": 828,
+    "uptimeMonth": "82.39%",
+    "uptimeYear": "85.59%",
+    "time": 836,
+    "timeDay": 1303,
+    "timeWeek": 823,
+    "timeMonth": 852,
+    "timeYear": 836,
     "dailyMinutesDown": {
       "2022-12-26": 597,
       "2022-12-25": 1440,
@@ -98,11 +98,11 @@
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.92%",
-    "time": 769,
-    "timeDay": 785,
-    "timeWeek": 750,
-    "timeMonth": 781,
-    "timeYear": 769,
+    "time": 772,
+    "timeDay": 970,
+    "timeWeek": 774,
+    "timeMonth": 786,
+    "timeYear": 772,
     "dailyMinutesDown": {
       "2023-01-15": 61
     }
@@ -118,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 575,
-    "timeDay": 534,
-    "timeWeek": 564,
+    "time": 578,
+    "timeDay": 767,
+    "timeWeek": 589,
     "timeMonth": 587,
-    "timeYear": 575,
+    "timeYear": 578,
     "dailyMinutesDown": {}
   },
   {
@@ -136,11 +136,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1128,
-    "timeDay": 1166,
-    "timeWeek": 1109,
-    "timeMonth": 1140,
-    "timeYear": 1128,
+    "time": 1131,
+    "timeDay": 1325,
+    "timeWeek": 1135,
+    "timeMonth": 1144,
+    "timeYear": 1131,
     "dailyMinutesDown": {}
   }
 ]
