@@ -25,7 +25,7 @@ status-website:
   #baseUrl: /upptime
   cname: upptime.petervandoorn.com # Custom domain CNAME
   logoUrl: https://raw.githubusercontent.com/two-trick-pony-NL/petervandoorn.com/master/images/icon.png
-  name: Peter van Doorn Status Page
+  name: upptime.petervandoorn.com
   introTitle: "**Status page**"
   introMessage: "This is the status page for my projects. If any service goes down I get notified instantly. Check out the issues for details"
   theme: light
