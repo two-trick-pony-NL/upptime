@@ -68,19 +68,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/triage.mapmaker.nl.ico",
     "slug": "mapmaker-dev",
     "status": "up",
-    "uptime": "85.30%",
-    "uptimeDay": "85.30%",
-    "uptimeWeek": "85.30%",
-    "uptimeMonth": "85.30%",
-    "uptimeYear": "85.30%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 627,
     "timeDay": 627,
     "timeWeek": 627,
     "timeMonth": 627,
     "timeYear": 627,
-    "dailyMinutesDown": {
-      "2023-04-25": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Citizen Science",
@@ -89,7 +87,7 @@
     "slug": "citizen-science",
     "status": "up",
     "uptime": "72.62%",
-    "uptimeDay": "19.58%",
+    "uptimeDay": "19.59%",
     "uptimeWeek": "2.80%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "72.62%",
