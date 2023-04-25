@@ -24,7 +24,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #baseUrl: /upptime
   cname: upptime.petervandoorn.com # Custom domain CNAME
-  logoUrl: https://petervandoorn.com/logo.png
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
   introTitle: "**Status page**"
   introMessage: "This is the status page for my projects. If any service goes down I get notified instantly. Check out the issues for details"
