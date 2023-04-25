@@ -44,12 +44,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Website
-      href: https://petervandoorn.com
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-    - title: Current incidents
-      href: https://github.com/two-trick-pony-NL/upptime/issues?q=
+    - title: Incident Issues
+      href: https://github.com/two-trick-pony-NL/upptime/issues?q=is%3Aissue+is%3Aopen
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
