@@ -42,7 +42,7 @@ status-website:
   introTitle: "**Status page**"
   introMessage: "This is the status page for my projects. If any service goes down I get notified instantly. Check out the issues for details"
   theme: light
-  themUrl: https://raw.githubusercontent.com/two-trick-pony-NL/upptime/master/assets/theme.css
+  css: "body {background-color: #eeeeee;}"
   navbar:
     - title: Status
       href: /
