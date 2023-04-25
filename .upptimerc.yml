@@ -31,7 +31,7 @@ status-website:
   name: Peter van Doorn Status Page
   introTitle: "**Status page**"
   introMessage: "This is the status page for my projects. If any service goes down I get notified instantly. Check out the issues for details"
-  theme: light
+  theme: custom-theme.css
   navbar:
     - title: Status
       href: /
