@@ -50,19 +50,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mapmaker.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com.ico",
     "slug": "mapmaker",
     "status": "up",
-    "uptime": "29.95%",
-    "uptimeDay": "29.95%",
-    "uptimeWeek": "29.95%",
-    "uptimeMonth": "29.95%",
-    "uptimeYear": "29.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 766,
     "timeDay": 766,
     "timeWeek": 766,
     "timeMonth": 766,
     "timeYear": 766,
-    "dailyMinutesDown": {
-      "2023-04-25": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Citizen Science",
@@ -71,7 +69,7 @@
     "slug": "citizen-science",
     "status": "up",
     "uptime": "72.58%",
-    "uptimeDay": "1.21%",
+    "uptimeDay": "1.22%",
     "uptimeWeek": "0.17%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "72.58%",
@@ -156,9 +154,9 @@
     "slug": "keer-zeven",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 1111,
     "timeDay": 1302,
@@ -166,7 +164,6 @@
     "timeMonth": 1148,
     "timeYear": 1111,
     "dailyMinutesDown": {
-      "2023-04-25": 5,
       "2023-04-14": 24
     }
   }
