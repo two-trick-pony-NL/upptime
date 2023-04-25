@@ -31,7 +31,8 @@ status-website:
   name: Peter van Doorn Status Page
   introTitle: "**Status page**"
   introMessage: "This is the status page for my projects. If any service goes down I get notified instantly. Check out the issues for details"
-  theme: custom-theme.css
+  #theme: custom-theme.css
+  themUrl: https://raw.githubusercontent.com/two-trick-pony-NL/upptime/master/assets/custom-theme.css
   navbar:
     - title: Status
       href: /
