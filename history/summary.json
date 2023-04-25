@@ -50,18 +50,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mapmaker.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com.ico",
     "slug": "mapmaker",
     "status": "down",
-    "uptime": "94.69%",
-    "uptimeDay": "94.69%",
-    "uptimeWeek": "94.69%",
-    "uptimeMonth": "94.69%",
-    "uptimeYear": "94.69%",
+    "uptime": "40.69%",
+    "uptimeDay": "40.69%",
+    "uptimeWeek": "40.69%",
+    "uptimeMonth": "40.69%",
+    "uptimeYear": "40.69%",
     "time": 716,
     "timeDay": 716,
     "timeWeek": 716,
     "timeMonth": 716,
     "timeYear": 716,
     "dailyMinutesDown": {
-      "2023-04-25": 0
+      "2023-04-25": 7
     }
   },
   {
@@ -71,8 +71,8 @@
     "slug": "citizen-science",
     "status": "up",
     "uptime": "72.58%",
-    "uptimeDay": "0.37%",
-    "uptimeWeek": "0.05%",
+    "uptimeDay": "0.86%",
+    "uptimeWeek": "0.12%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "72.58%",
     "time": 738,
@@ -154,9 +154,9 @@
     "url": "https://keerzeven.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/keerzeven.nl.ico",
     "slug": "keer-zeven",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
@@ -166,6 +166,7 @@
     "timeMonth": 1139,
     "timeYear": 1109,
     "dailyMinutesDown": {
+      "2023-04-25": 0,
       "2023-04-14": 24
     }
   }
