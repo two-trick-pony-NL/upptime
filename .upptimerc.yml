@@ -28,8 +28,6 @@ sites:
     url: https://webmail.lucevankempen.nl
   - name: Doete
     url: https://webmail.doetevandoorn.com
-  - name: Test Stuk
-    url: https://kddkkdd.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
