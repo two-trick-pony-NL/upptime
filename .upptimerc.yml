@@ -28,7 +28,7 @@ sites:
     url: https://webmail.lucevankempen.nl
   - name: Doete
     url: https://webmail.doetevandoorn.com
-  - name: Test Stuk
+  - name: Google
     url: https://google.com
 
 status-website:
