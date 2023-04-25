@@ -10,8 +10,10 @@ sites:
     url: https://petervandoorn.com
   - name: Corina Horstman
     url: https://corinahorstman.nl
-  - name: Mapmaker
-    url: https://mapmaker.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com/api/v1
+  - name: Mapmaker [prod]
+    url: https://mapmaker.nl/api/v1
+  - name: Mapmaker [dev]
+    url: https://triage.mapmaker.nl/api/v1
   - name: Citizen Science
     url: https://www.petervandoorn.com/cs-nl-network/
   - name: Photo Scavenger
@@ -25,13 +27,15 @@ status-website:
   #baseUrl: /upptime
   cname: upptime.petervandoorn.com # Custom domain CNAME
   logoUrl: https://raw.githubusercontent.com/two-trick-pony-NL/petervandoorn.com/master/images/icon.png
-  name: upptime.petervandoorn.com
+  name: Peter van Doorn Status Page
   introTitle: "**Status page**"
   introMessage: "This is the status page for my projects. If any service goes down I get notified instantly. Check out the issues for details"
   theme: light
   navbar:
     - title: Status
       href: /
+   - title: Website
+      href: https://petervandoorn.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Current incidents
