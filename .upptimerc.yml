@@ -10,12 +10,10 @@ sites:
     url: https://petervandoorn.com
   - name: Corina Horstman
     url: https://corinahorstman.nl
-  - name: Bussie Backend
-    url: https://bussie.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com/
-  - name: Bussie Backend (Vehicle fetch)
-    url: https://bussie.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com/API/V1/get_all_vehicle_information
+  - name: Mapmaker
+    url: https://mapmaker.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com/api/v1/
   - name: Citizen Science
-    url: https://citizen-science-nl.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com/
+    url: https://www.petervandoorn.com/cs-nl-network/
   - name: Photo Scavenger
     url: https://photoscavenger.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com/healthcheck
   - name: Keer Zeven
