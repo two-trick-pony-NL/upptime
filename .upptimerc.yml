@@ -34,7 +34,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-   - title: Website
+    - title: Website
       href: https://petervandoorn.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
