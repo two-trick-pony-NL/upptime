@@ -22,7 +22,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /upptime
+  #baseUrl: /upptime
+  cname: upptime.petervandoorn.com # Custom domain CNAME
   logoUrl: https://petervandoorn.com/logo.png
   name: Status
   introTitle: "**Status page**"
