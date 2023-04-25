@@ -9,9 +9,9 @@ sites:
   - name: petervandoorn.com
     url: https://petervandoorn.com
   - name: Corina Horstman
-    url: https://corinahorstman.nl/tt
+    url: https://corinahorstman.nl
   - name: Mapmaker
-    url: https://mapmaker.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com/api/v1/tt
+    url: https://mapmaker.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com/api/v1
   - name: Citizen Science
     url: https://www.petervandoorn.com/cs-nl-network/
   - name: Photo Scavenger
