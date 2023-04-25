@@ -13,7 +13,7 @@ sites:
   - name: Mapmaker [prod]
     url: https://mapmaker.nl/api/v1
   - name: Mapmaker [dev]
-    url: https://triage.mapmaker.nl/api/v1/ddd
+    url: https://triage.mapmaker.nl/api/v1
   - name: Citizen Science
     url: https://www.petervandoorn.com/cs-nl-network/
   - name: Photo Scavenger
