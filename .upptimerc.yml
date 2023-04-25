@@ -24,6 +24,10 @@ sites:
     url: https://bunq.com/
   - name: slack
     url: https://status.slack.com/api/v2.0.0/current
+  - name: Luce
+    url: https://webmail.lucevankempen.nl
+  - name: Doete
+    url: https://webmail.doetevandoorn.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
