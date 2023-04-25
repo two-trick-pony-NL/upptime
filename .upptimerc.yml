@@ -26,6 +26,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #baseUrl: /upptime
   cname: upptime.petervandoorn.com # Custom domain CNAME
+  favicon: https://raw.githubusercontent.com/two-trick-pony-NL/petervandoorn.com/master/favicon.ico
   logoUrl: https://raw.githubusercontent.com/two-trick-pony-NL/petervandoorn.com/master/images/icon.png
   name: Peter van Doorn Status Page
   introTitle: "**Status page**"
