@@ -35,7 +35,7 @@ status-website:
   name: Peter van Doorn Status Page
   introTitle: "**Status page**"
   introMessage: "This is the status page for my projects. If any service goes down I get notified instantly. Check out the issues for details"
-  #theme: light
+  theme: light
   themUrl: https://raw.githubusercontent.com/two-trick-pony-NL/upptime/master/assets/theme.css
   navbar:
     - title: Status
