@@ -48,7 +48,7 @@ status-website:
   introTitle: "**Status page**"
   introMessage: "This is the status page for my projects. If any service goes down I get notified instantly. Check out the issues for details"
   theme: light
-  css: "body {background-color: #fafafa;}"
+  css: "body {background-color: #fafafa; nav-background-color: #fae050;}"
   navbar:
     - title: Status
       href: /
