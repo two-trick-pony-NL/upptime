@@ -4,10 +4,10 @@
     "url": "https://petervandoorn.com",
     "icon": "https://icons.duckduckgo.com/ip3/petervandoorn.com.ico",
     "slug": "petervandoorn-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 694,
@@ -16,6 +16,7 @@
     "timeMonth": 666,
     "timeYear": 694,
     "dailyMinutesDown": {
+      "2023-05-17": 1,
       "2023-04-14": 25,
       "2023-03-29": 30,
       "2023-01-11": 20
@@ -26,9 +27,9 @@
     "url": "https://corinahorstman.nl",
     "icon": "https://icons.duckduckgo.com/ip3/corinahorstman.nl.ico",
     "slug": "corina-horstman",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
@@ -38,6 +39,7 @@
     "timeMonth": 2308,
     "timeYear": 2278,
     "dailyMinutesDown": {
+      "2023-05-17": 0,
       "2023-04-25": 25,
       "2023-04-14": 25,
       "2023-01-25": 33,
@@ -105,18 +107,19 @@
     "url": "https://www.petervandoorn.com/cs-nl-network/",
     "icon": "https://icons.duckduckgo.com/ip3/www.petervandoorn.com.ico",
     "slug": "citizen-science",
-    "status": "up",
-    "uptime": "97.14%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.16%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.14%",
+    "uptimeYear": "97.16%",
     "time": 849,
     "timeDay": 1481,
     "timeWeek": 1291,
     "timeMonth": 1118,
     "timeYear": 849,
     "dailyMinutesDown": {
+      "2023-05-17": 0,
       "2023-02-04": 95,
       "2023-02-03": 197,
       "2023-01-31": 175,
@@ -153,9 +156,9 @@
     "url": "https://keerzeven.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/keerzeven.nl.ico",
     "slug": "keer-zeven",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -165,6 +168,7 @@
     "timeMonth": 1091,
     "timeYear": 1102,
     "dailyMinutesDown": {
+      "2023-05-17": 0,
       "2023-04-14": 24
     }
   },
@@ -209,9 +213,9 @@
     "url": "https://webmail.lucevankempen.nl",
     "icon": "https://icons.duckduckgo.com/ip3/webmail.lucevankempen.nl.ico",
     "slug": "luce",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -220,7 +224,9 @@
     "timeWeek": 872,
     "timeMonth": 773,
     "timeYear": 773,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-17": 0
+    }
   },
   {
     "name": "Doete",
