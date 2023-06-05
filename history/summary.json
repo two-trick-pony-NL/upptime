@@ -287,19 +287,19 @@
     "url": "https://web.whatsapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/web.whatsapp.com.ico",
     "slug": "whatsapp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 66,
-    "timeWeek": 259,
-    "timeMonth": 199,
-    "timeYear": 189,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "95.69%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.89%",
+    "time": 188,
+    "timeDay": 110,
+    "timeWeek": 246,
+    "timeMonth": 197,
+    "timeYear": 188,
     "dailyMinutesDown": {
-      "2023-06-05": 0
+      "2023-06-05": 62
     }
   },
   {
