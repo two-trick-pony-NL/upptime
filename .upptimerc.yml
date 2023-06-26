@@ -22,6 +22,8 @@ sites:
     url: https://photoscavenger.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com/healthcheck
   - name: Keer Zeven
     url: https://keerzeven.nl/
+  - name: Kinderkots
+    url: https://kinderkots.nl/
   - name: bunq
     url: https://bunq.com/
   - name: slack
