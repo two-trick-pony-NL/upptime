@@ -26,6 +26,8 @@ sites:
     url: https://kinderkots.nl/
   - name: bunq
     url: https://bunq.com/
+  - name: countdown bunq
+    url: https://countdowntimer.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com/
   - name: slack
     url: https://status.slack.com/api/v2.0.0/current
   - name: Luce
