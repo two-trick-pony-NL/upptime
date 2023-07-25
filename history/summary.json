@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/petervandoorn.com.ico",
     "slug": "petervandoorn-com",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.92%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.92%",
     "time": 678,
     "timeDay": 550,
     "timeWeek": 614,
     "timeMonth": 605,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2023-07-25": 1,
+      "2023-07-25": 15,
       "2023-05-17": 15,
       "2023-04-14": 25,
       "2023-03-29": 30,
@@ -30,9 +30,9 @@
     "slug": "corina-horstman",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.96%",
     "time": 2259,
     "timeDay": 1478,
@@ -40,7 +40,7 @@
     "timeMonth": 2038,
     "timeYear": 2259,
     "dailyMinutesDown": {
-      "2023-07-25": 0,
+      "2023-07-25": 14,
       "2023-05-17": 15,
       "2023-04-25": 25,
       "2023-04-14": 25,
@@ -109,10 +109,10 @@
     "url": "https://www.petervandoorn.com/cs-nl-network/",
     "icon": "https://icons.duckduckgo.com/ip3/www.petervandoorn.com.ico",
     "slug": "citizen-science",
-    "status": "up",
+    "status": "down",
     "uptime": "97.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.97%",
     "time": 926,
@@ -121,6 +121,7 @@
     "timeMonth": 1136,
     "timeYear": 926,
     "dailyMinutesDown": {
+      "2023-07-25": 1,
       "2023-05-17": 15,
       "2023-02-04": 95,
       "2023-02-03": 197,
@@ -138,10 +139,10 @@
     "url": "https://keerzeven.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/keerzeven.nl.ico",
     "slug": "keer-zeven",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1092,
@@ -150,6 +151,7 @@
     "timeMonth": 1043,
     "timeYear": 1092,
     "dailyMinutesDown": {
+      "2023-07-25": 1,
       "2023-05-17": 15,
       "2023-04-14": 24
     }
@@ -159,10 +161,10 @@
     "url": "https://kinderkots.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/kinderkots.nl.ico",
     "slug": "kinderkots",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 771,
@@ -170,7 +172,9 @@
     "timeWeek": 696,
     "timeMonth": 771,
     "timeYear": 771,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-25": 1
+    }
   },
   {
     "name": "bunq",
@@ -213,10 +217,10 @@
     "url": "https://webmail.lucevankempen.nl",
     "icon": "https://icons.duckduckgo.com/ip3/webmail.lucevankempen.nl.ico",
     "slug": "luce",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 775,
@@ -225,6 +229,7 @@
     "timeMonth": 729,
     "timeYear": 775,
     "dailyMinutesDown": {
+      "2023-07-25": 1,
       "2023-05-17": 15
     }
   },
@@ -233,9 +238,9 @@
     "url": "https://webmail.doetevandoorn.com",
     "icon": "https://icons.duckduckgo.com/ip3/webmail.doetevandoorn.com.ico",
     "slug": "doete",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -244,7 +249,9 @@
     "timeWeek": 741,
     "timeMonth": 781,
     "timeYear": 791,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-25": 0
+    }
   },
   {
     "name": "Google",
