@@ -21,7 +21,7 @@ sites:
   - name: Keer Zeven
     url: https://keerzeven.nl/
   - name: Kinderkots
-    url: https://kinderkots.nl/
+    url: https://kinderkots.nl/testtesttest
   - name: bunq
     url: https://bunq.com/
   - name: slack
