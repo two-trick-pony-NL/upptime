@@ -186,18 +186,20 @@
     "url": "https://bunq.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bunq.com.ico",
     "slug": "bunq",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 440,
-    "timeDay": 517,
-    "timeWeek": 509,
-    "timeMonth": 443,
-    "timeYear": 440,
-    "dailyMinutesDown": {}
+    "time": 441,
+    "timeDay": 551,
+    "timeWeek": 519,
+    "timeMonth": 447,
+    "timeYear": 441,
+    "dailyMinutesDown": {
+      "2023-10-18": 0
+    }
   },
   {
     "name": "slack",
