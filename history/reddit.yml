@@ -1,7 +1,7 @@
 url: https://reddit.com
-status: down
-code: 503
-responseTime: 110
-lastUpdated: 2023-11-18T11:35:28.442Z
+status: up
+code: 200
+responseTime: 301
+lastUpdated: 2023-11-18T11:47:57.838Z
 startTime: 2023-04-25T21:02:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
