@@ -1,7 +1,7 @@
 url: https://webmail.lucevankempen.nl
-status: up
-code: 200
-responseTime: 710
-lastUpdated: 2024-03-23T23:15:29.376Z
+status: down
+code: 503
+responseTime: 563
+lastUpdated: 2024-03-24T07:19:05.277Z
 startTime: 2023-04-25T20:10:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
