@@ -303,7 +303,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/reddit.com.ico",
     "slug": "reddit",
     "status": "down",
-    "uptime": "89.40%",
+    "uptime": "89.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -320,9 +320,9 @@
     "url": "https://web.whatsapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/web.whatsapp.com.ico",
     "slug": "whatsapp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -331,7 +331,9 @@
     "timeWeek": 203,
     "timeMonth": 369,
     "timeYear": 304,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-04": 0
+    }
   },
   {
     "name": "Lightsail (AWS)",
