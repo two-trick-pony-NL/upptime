@@ -58,54 +58,60 @@
     "url": "https://mapmaker.nl/api/v1",
     "icon": "https://icons.duckduckgo.com/ip3/mapmaker.nl.ico",
     "slug": "mapmaker-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 635,
-    "timeDay": 574,
-    "timeWeek": 720,
-    "timeMonth": 656,
+    "timeDay": 506,
+    "timeWeek": 685,
+    "timeMonth": 649,
     "timeYear": 636,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-02": 0
+    }
   },
   {
     "name": "Mapmaker [dev]",
     "url": "https://triage.mapmaker.nl/api/v1",
     "icon": "https://icons.duckduckgo.com/ip3/triage.mapmaker.nl.ico",
     "slug": "mapmaker-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 631,
-    "timeDay": 519,
-    "timeWeek": 712,
-    "timeMonth": 671,
-    "timeYear": 636,
-    "dailyMinutesDown": {}
+    "timeDay": 474,
+    "timeWeek": 676,
+    "timeMonth": 663,
+    "timeYear": 635,
+    "dailyMinutesDown": {
+      "2025-05-02": 0
+    }
   },
   {
     "name": "Mapmaker [nginx]",
     "url": "https://mapmaker.nl/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/mapmaker.nl.ico",
     "slug": "mapmaker-nginx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 92,
-    "timeWeek": 132,
-    "timeMonth": 119,
+    "timeDay": 99,
+    "timeWeek": 128,
+    "timeMonth": 118,
     "timeYear": 115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-02": 0
+    }
   },
   {
     "name": "Citizen Science",
