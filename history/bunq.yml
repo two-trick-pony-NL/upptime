@@ -1,7 +1,7 @@
 url: https://bunq.com/
-status: down
-code: 429
-responseTime: 320
-lastUpdated: 2025-08-16T14:37:47.356Z
+status: up
+code: 200
+responseTime: 608
+lastUpdated: 2025-08-16T14:50:10.896Z
 startTime: 2023-04-25T19:39:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
